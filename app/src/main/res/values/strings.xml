@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">POKapp</string>
+
+    <!-- Page d'accueil !-->
+    <string name="choose_number"> Choisis un nombre entre 1 et 100 :</string>
+    <string name="compare_number"> Comparer </string>
+    <string name="your_number">Saisir un nombre</string>
+    <string name="help"> Veuillez saisir un nombre pour commencer</string>
+
+
+</resources>
